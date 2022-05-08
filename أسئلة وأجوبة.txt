@@ -1,0 +1,7 @@
+what is the name of this course?programming network
+what is the name of university?tishreen
+100+13?113
+are you ready to quiz?yes
+list is an iterable object true or flase?true
+50*50?2500
+2*2?4
